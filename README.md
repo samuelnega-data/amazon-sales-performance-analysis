@@ -1,4 +1,3 @@
 # Amazon Sales Performance Analysis 
-<div style="width: 100%; height: 300px; overflow: hidden;">
-  <img src="your-image-url" style="width: 100%; transform: translateY(-50%);" />
-</div>
+<img width="1920" height="500" alt="image" src="https://github.com/user-attachments/assets/c02698e2-e028-461e-b0b1-92f7f1fee17d" />
+
