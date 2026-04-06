@@ -1,2 +1,2 @@
 # Amazon Sales Performance Analysis 
-<img width="1688" height="379" alt="image" src="https://github.com/user-attachments/assets/eeb01db0-90ca-464d-b041-ecff386256ef" />
+<img width="631" height="193" alt="image" src="https://github.com/user-attachments/assets/fa2ea94e-f6e3-406c-801f-044d58ea9529" />
