@@ -1,3 +1,5 @@
 # Amazon Sales Performance Analysis 
-<img width="1920" height="200" alt="image" src="https://github.com/user-attachments/assets/c02698e2-e028-461e-b0b1-92f7f1fee17d" />
-
+<div style="width: 100%; height: 300px; overflow: hidden;">
+  <img src="https://github.com/user-attachments/assets/e63d70ca-2900-4c6b-acb3-4f282abac788"
+       style="width: 100%; object-fit: cover; object-position: bottom;">
+</div>
